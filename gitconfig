@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chengy1989@hotmail.com
+	name = Kaho Cheng
